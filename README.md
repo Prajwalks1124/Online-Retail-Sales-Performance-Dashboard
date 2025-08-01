@@ -58,6 +58,7 @@ This Power BI project presents a data-driven analysis of the Online Retail datas
 ## 🖼️ Screenshot
 
 ![Dashboard Looks Like](<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6d62c1e6-f151-4fc5-8079-587eb1253375" />]
+(https://github.com/Prajwalks1124/Online-Retail-Sales-Performance-Dashboard/blob/main/Online%20Retail%20Sales%20Performance%20Dashboard.pbix)
 
 
 ---
